@@ -1,9 +1,9 @@
 /* stylelint-disable declaration-block-no-redundant-longhand-properties */
 @font-face {
   font-family: BubbleProz;
-  src: url("../шрифты/ofont.ru_Bubblez\ Graffiti.woff") format("woff"),
-       url("../шрифты/ofont.ru_Bubblez\ Graffiti.woff2") format("woff2"),
-       url("../шрифты/ofont.ru_Bubblez\ Graffiti.ttf") format("truetype");
+  src: url("/шрифты/ofont.ru_Bubblez\ Graffiti.woff") format("woff"),
+       url("/шрифты/ofont.ru_Bubblez\ Graffiti.woff2") format("woff2"),
+       url("/шрифты/ofont.ru_Bubblez\ Graffiti.ttf") format("truetype");
 }
 
 @font-face {
